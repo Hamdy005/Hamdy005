@@ -33,6 +33,7 @@
 ### 🛠 Tools and Technologies  
 
 <div align="center">
+  <h3>Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -42,19 +43,42 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-SQL-F80000?style=for-the-badge&logo=sql&logoColor=white"/>
+  </p>
+  
+  <h3>IDEs & Tools</h3>
+  <p>
     <img src="https://img.shields.io/badge/-VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  </p>
+
+  <h3>Problem Solving Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06"/>
+    <img src="https://img.shields.io/badge/-Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </p>
+
+  <h3>Operating Systems</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </p>
 </div>
 
 ---
 
 ### 📚 Libraries and Frameworks  
-- Numpy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Sklearn  
+
+<div align="center">
+  <h3>Libraries</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Seaborn-6A8DFF?style=for-the-badge&logo=seaborn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  </p>
+</div>
 
 ---
 
