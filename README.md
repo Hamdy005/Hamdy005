@@ -3,6 +3,7 @@
 **Computer Science Student** | 📊 **Interested in Data Science**  
 
 🌟 Passionate about exploring data and solving real-world problems.  
+
 📈 Always curious to learn and grow in the field of data science.  
 
 ---
@@ -25,7 +26,9 @@
 ### 🧑‍💻 About Me  
 
 - 💼 **Currently Learning**: Data Science, Deep learning
+  
 - 🚀 **Interests**: Mathematics, Programming, Data Visualization, Data Engineering, Machine Learning, Deep Learning, Big Data, and solving real-world problems with data
+  
 - 🌱 **Open to Collaborating** on exciting data science projects and open-source contributions  
 
 ---
