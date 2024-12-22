@@ -1,10 +1,11 @@
-<div align="center">
-  # 👋 Hi, I'm Mohammed Hamdy!  
-</div>
+<h1 align="center">Hi, I'm Mohammed Hamdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-💻 **Computer Science Student** | 📊 **Aspiring Data Scientist**  
+**Computer Science Student** |
 
-🌟 Passionate about exploring data and solving real-world problems.  
+📊 **Aspiring Data Scientist**  
+
+🌟 Passionate about exploring data and solving real-world problems. 
+
 📈 Always curious to learn and grow in the field of data science.  
 
 ---
