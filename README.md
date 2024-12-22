@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Mohammed Hamdy!  
+# 👋 Hi, I'm
+# Mohammed Hamdy!  
 💻 **Computer Science Student** | 📊 **Aspiring Data Scientist**  
 
 🌟 Passionate about exploring data and solving real-world problems.  
