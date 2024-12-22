@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Mohammed Hamdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**Computer Science Student** |
-
-📊 **Aspiring Data Scientist**  
+**Computer Science Student** |📊 **Interested in Data Sciece**  
 
 🌟 Passionate about exploring data and solving real-world problems. 
 
@@ -26,8 +24,11 @@
 ---
 
 ### 🧑‍💻 About Me  
-- 💼 **Currently Learning**: Data Science, Machine Learning, Data Analysis  
-- 🚀 **Interests**: Data Visualization, Deep Learning, Big Data, and solving real-world problems with data  
+
+- 💼 **Currently Learning**: Data Science, Deep learning
+- 
+- 🚀 **Interests**: Mathematics, Programming, Data Visualization, Data Engineering, Machine Learning, Deep Learning, Big Data, and solving real-world problems with data
+- 
 - 🌱 **Open to Collaborating** on exciting data science projects and open-source contributions  
 
 ---
@@ -46,8 +47,3 @@
 - Matplotlib  
 - Seaborn  
 - Sklearn  
-
----
-
-### 🧮 Visitors  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hamdy005.Hamdy005)
