@@ -79,8 +79,3 @@
     <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </p>
 </div>
-
----
-
-### 🧮 Visitors  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hamdy005.Hamdy005)
