@@ -34,15 +34,16 @@
 
 <div align="center">
   <p>
+    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-SQL-F80000?style=for-the-badge&logo=sql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Seaborn-6A8DFF?style=for-the-badge&logo=seaborn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Data%20Engineering-4C9BDF?style=for-the-badge&logo=apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Data%20Analysis-FF6347?style=for-the-badge&logo=tableau&logoColor=white"/>
   </p>
 </div>
 
