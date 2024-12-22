@@ -1,16 +1,21 @@
 <div align="center">
   # 👋 Hi, I'm Mohammed Hamdy!  
-  💻 **Computer Science Student** | 📊 **Aspiring Data Scientist**  
-
-  🌟 Passionate about exploring data and solving real-world problems.  
-  📈 Always curious to learn and grow in the field of data science.  
 </div>
+
+💻 **Computer Science Student** | 📊 **Aspiring Data Scientist**  
+
+🌟 Passionate about exploring data and solving real-world problems.  
+📈 Always curious to learn and grow in the field of data science.  
 
 ---
 
-### 💻 I love Data Science  
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=500&lines=I+Love+Data+Science)
 
+---
+
+### 🧮 Visitors  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hamdy005.Hamdy005)
+  
 ---
 
 ### 📊 GitHub Stats  
