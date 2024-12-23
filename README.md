@@ -25,9 +25,9 @@
 
 ### 🧑‍💻 About Me  
 
-- 💼 **Currently Learning**: Data Science, Deep learning
+- 💼 **Currently Learning**: Data Science and Deep learning
   
-- 🚀 **Interests**: Mathematics, Programming, Data Visualization, Data Engineering, Machine Learning, Deep Learning, Big Data, and solving real-world problems with data
+- 🚀 **Interests**: Mathematics, Programming, OOP, Problem Solving, DSA, Data Visualization, Data Engineering, Machine Learning, Deep Learning, Big Data, and solving real-world problems with data
   
 - 🌱 **Open to Collaborating** on exciting data science projects and open-source contributions  
 
